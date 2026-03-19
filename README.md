@@ -3,9 +3,8 @@
 Proyecto de integración con Git y GitHub.
 
 ## Integrantes
-- Nombre 1
-- Nombre 2
-- Nombre 3
+- Jesus Ariza
+- Gabriela Cervantes
 
 ## Tecnologías
 - HTML
